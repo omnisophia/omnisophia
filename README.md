@@ -1,4 +1,12 @@
-### Hi there 👋
+
+ ██████  ███    ███ ███    ██ ██ ███████  ██████  ██████  ██   ██ ██  █████  
+██    ██ ████  ████ ████   ██ ██ ██      ██    ██ ██   ██ ██   ██ ██ ██   ██ 
+██    ██ ██ ████ ██ ██ ██  ██ ██ ███████ ██    ██ ██████  ███████ ██ ███████ 
+██    ██ ██  ██  ██ ██  ██ ██ ██      ██ ██    ██ ██      ██   ██ ██ ██   ██ 
+ ██████  ██      ██ ██   ████ ██ ███████  ██████  ██      ██   ██ ██ ██   ██ 
+                                                                             v1
+
+### Welcome to our GITHUB
 
 <!--
 **omnisophia/omnisophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
