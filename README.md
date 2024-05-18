@@ -4,7 +4,7 @@ Welcome to Northern Technical Systems ( GNU/Linux )
   System information as of $DAYNum $DAYName $TIME24HOURS UTC $YEAR
 
   System load:  0.0                Processes:              139
-  Usage of /:   40.8% of 28.38GB   Users logged in:        $SITEVISITORS
+  Usage of /:   40.8% of 28.38GB   Users logged in:        ![](https://komarev.com/ghpvc/?username=omnisophia&style=flat-square)
   Memory usage: 13%                IPv4 address for ens18: 0:0:0:0:0:0:0:1
   Swap usage:   0%
 
